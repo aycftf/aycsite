@@ -18,9 +18,7 @@ social: true # includes social icons at the bottom of the page
 description:
   enabled: true
   test: >
-    <body> 
-      Hello world. This is a description of what i do, how i do it, and why I do it!
-    </body>
+    <body> Hello world. This is a description of what i do, how i do it, and why I do it! </body>
 
 
 announcements:
