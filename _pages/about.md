@@ -4,10 +4,6 @@ title: HOME
 permalink: /
 subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking, and general software security and design. 
 
-<body>testtesttest</body>
-
-
-
 profile:
   align: right
   image: ac123.jpg
