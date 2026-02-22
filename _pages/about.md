@@ -6,7 +6,7 @@ subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking,
 
 profile:
   align: right
-  image: Alex Carter-1843.jpg
+  image: ac123.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 Eastern Michigan University </p>
