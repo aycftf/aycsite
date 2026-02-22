@@ -15,11 +15,6 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-description:
-  enabled: true
-  test: >
-    <body> Hello world. This is a description of what i do, how i do it, and why I do it! </body>
-
 
 announcements:
   enabled: false # includes a list of news items
@@ -31,3 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<body> Hello world. This is a description of what i do, how i do it, and why I do it! </body>
