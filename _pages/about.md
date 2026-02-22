@@ -19,7 +19,6 @@ social: true # includes social icons at the bottom of the page
 
 description:
   enabled: true # includes a list of news items
-  <p>testtesttest</p>
 
 
 
