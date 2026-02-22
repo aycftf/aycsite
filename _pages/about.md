@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking, and general software security and design. 
 
