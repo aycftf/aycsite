@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aycftf/acarter.github.io/sitemap.xml
+Sitemap: https://acarter.github.io//sitemap.xml
