@@ -26,4 +26,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<b>Hello world.</b> This is a description of what i do, how i do it, and why I do it!
